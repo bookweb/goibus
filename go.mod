@@ -1,4 +1,4 @@
-module goibus
+module github.com/goatastronaut0212/goibus
 
 go 1.13
 
